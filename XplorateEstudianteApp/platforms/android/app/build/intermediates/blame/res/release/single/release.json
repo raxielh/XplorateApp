@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xhdpi_screen.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_icon.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_remove.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-hdpi_screen.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_icon.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_remove.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\xml_config.xml.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_icon.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-mdpi_screen.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-ldpi_screen.png.flat",
+        "source": "D:\\XplorateApp\\XplorateEstudianteApp\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
+    }
+]

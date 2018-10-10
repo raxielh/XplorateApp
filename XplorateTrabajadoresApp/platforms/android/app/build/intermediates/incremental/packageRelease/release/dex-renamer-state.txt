@@ -1,0 +1,4 @@
+#Wed Aug 29 15:15:59 COT 2018
+base.0=D\:\\XplorateApp\\XplorateTrabajadoresApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=D\:\\XplorateApp\\XplorateTrabajadoresApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
